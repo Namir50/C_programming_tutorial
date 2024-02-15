@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\namir\Documents\coding projects\struct and fucntions c\Source.cpp(10,12): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\namir\Documents\coding projects\struct and fucntions c\Source.cpp(10,24): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\namir\Documents\coding projects\struct and fucntions c\Source.cpp(10,24): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  struct and fucntions c.vcxproj -> C:\Users\namir\Documents\coding projects\struct and fucntions c\Debug\struct and fucntions c.exe

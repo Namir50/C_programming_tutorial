@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\namir\Documents\coding projects\print 2d array c\Source.cpp(10,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\namir\Documents\coding projects\print 2d array c\Source.cpp(11,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  print 2d array c.vcxproj -> C:\Users\namir\Documents\coding projects\print 2d array c\Debug\print 2d array c.exe

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\namir\Documents\coding projects\strings and pointers c\Source.cpp(9,16): error C2440: '=': cannot convert from 'char [13]' to 'char'
+C:\Users\namir\Documents\coding projects\strings and pointers c\Source.cpp(9,12): message : There is no context in which this conversion is possible
+  Source1.cpp
+C:\Users\namir\Documents\coding projects\strings and pointers c\Source1.cpp(9,17): error C2440: '=': cannot convert from 'char [13]' to 'char'
+C:\Users\namir\Documents\coding projects\strings and pointers c\Source1.cpp(9,13): message : There is no context in which this conversion is possible
+  Source2.cpp
+  Generating Code...

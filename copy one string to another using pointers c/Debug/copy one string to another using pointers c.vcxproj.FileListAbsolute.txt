@@ -1,0 +1,1 @@
+C:\Users\namir\Documents\coding projects\copy one string to another using pointers c\Debug\copy one string to another using pointers c.exe

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\namir\Documents\coding projects\check if the number is prime c\Source.cpp(19,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\namir\Documents\coding projects\check if the number is prime c\Source.cpp(19,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\namir\Documents\coding projects\check if the number is prime c\Source.cpp(19,10): message : the missing variadic argument 1 is required by format string '%d'
+C:\Users\namir\Documents\coding projects\check if the number is prime c\Source.cpp(21,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\namir\Documents\coding projects\check if the number is prime c\Source.cpp(21,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\namir\Documents\coding projects\check if the number is prime c\Source.cpp(21,10): message : the missing variadic argument 1 is required by format string '%d'
+  check if the number is prime c.vcxproj -> C:\Users\namir\Documents\coding projects\check if the number is prime c\Debug\check if the number is prime c.exe

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\coding projects\C programming\Struct student C\Source.cpp(14,35): warning C4305: '=': truncation from '__int64' to 'int'
+D:\coding projects\C programming\Struct student C\Source.cpp(14,25): warning C4309: '=': truncation of constant value
+D:\coding projects\C programming\Struct student C\Source.cpp(20,35): warning C4305: '=': truncation from '__int64' to 'int'
+D:\coding projects\C programming\Struct student C\Source.cpp(20,25): warning C4309: '=': truncation of constant value
+  Struct student C.vcxproj -> D:\coding projects\C programming\Struct student C\x64\Debug\Struct student C.exe

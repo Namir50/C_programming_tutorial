@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0b86423-a162-4625-baa1-7c6c28ad2939": {
+      "ProjectGuid": "b0b86423-a162-4625-baa1-7c6c28ad2939",
+      "DisplayName": "Constants in C",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

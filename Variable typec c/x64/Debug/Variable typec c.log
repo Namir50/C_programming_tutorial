@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\coding projects\C programming\Variable typec c\Source.cpp(3,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\coding projects\C programming\Variable typec c\Source.cpp(17,14): warning C4305: '=': truncation from 'double' to 'float'
+  Variable typec c.vcxproj -> D:\coding projects\C programming\Variable typec c\x64\Debug\Variable typec c.exe

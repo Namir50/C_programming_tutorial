@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d393f391-d1f0-4cf4-ae0a-cbdb03139d2b": {
+      "ProjectGuid": "d393f391-d1f0-4cf4-ae0a-cbdb03139d2b",
+      "DisplayName": "students data using struct C",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

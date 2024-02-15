@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fdd4bfd8-811a-46b4-acfb-02827611ae4a": {
+      "ProjectGuid": "fdd4bfd8-811a-46b4-acfb-02827611ae4a",
+      "DisplayName": "ceil and floor in C",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

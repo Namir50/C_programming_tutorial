@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\coding projects\C programming\square of numbers c\Source.cpp(4,6): warning C4101: 'i': unreferenced local variable
+  square of numbers c.vcxproj -> D:\coding projects\C programming\square of numbers c\x64\Debug\square of numbers c.exe

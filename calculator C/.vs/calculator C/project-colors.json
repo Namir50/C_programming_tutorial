@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e89c2e2-f597-4131-95b5-94fe92c43125": {
+      "ProjectGuid": "2e89c2e2-f597-4131-95b5-94fe92c43125",
+      "DisplayName": "calculator C",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

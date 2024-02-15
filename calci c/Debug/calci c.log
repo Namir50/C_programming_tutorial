@@ -1,0 +1,3 @@
+﻿  Module.ixx
+C:\Users\namir\Documents\coding projects\calci c\Module.ixx(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namir\Documents\coding projects\calci c\Module.ixx(5,23): warning C4101: 'result': unreferenced local variable

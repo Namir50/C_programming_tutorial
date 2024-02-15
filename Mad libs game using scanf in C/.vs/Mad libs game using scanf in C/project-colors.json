@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2b90b52-12af-4902-bdd5-21c1d0e1d998": {
+      "ProjectGuid": "f2b90b52-12af-4902-bdd5-21c1d0e1d998",
+      "DisplayName": "Mad libs game using scanf in C",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

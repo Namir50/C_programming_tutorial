@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Namir\Desktop\Memory address C\Source.cpp(7,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+C:\Users\Namir\Desktop\Memory address C\Source.cpp(7,9): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'int'
+C:\Users\Namir\Desktop\Memory address C\Source.cpp(7,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 2 has type 'double'
+C:\Users\Namir\Desktop\Memory address C\Source.cpp(7,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 3 has type 'int'
+C:\Users\Namir\Desktop\Memory address C\Source.cpp(7,9): warning C4313: 'printf': '%p' in format string conflicts with argument 3 of type 'int'
+  Memory address C.vcxproj -> C:\Users\Namir\Desktop\Memory address C\x64\Debug\Memory address C.exe

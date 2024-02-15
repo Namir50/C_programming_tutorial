@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\namir\Documents\coding projects\dynamically allocation of memory c\Source.cpp(13): error C4700: uninitialized local variable 'i' used

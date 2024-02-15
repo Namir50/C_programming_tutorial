@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56f29ea6-020d-4d3e-8825-fcbfe42674bd": {
+      "ProjectGuid": "56f29ea6-020d-4d3e-8825-fcbfe42674bd",
+      "DisplayName": "Dereferencing a pointr C",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

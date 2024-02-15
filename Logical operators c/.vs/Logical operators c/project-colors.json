@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "282a4f0e-ec01-4d3f-960e-d72f9d2c09a0": {
+      "ProjectGuid": "282a4f0e-ec01-4d3f-960e-d72f9d2c09a0",
+      "DisplayName": "Logical operators c",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

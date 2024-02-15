@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\namir\Documents\coding projects\working of pointers c\Source.cpp(6,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+C:\Users\namir\Documents\coding projects\working of pointers c\Source.cpp(10,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+  working of pointers c.vcxproj -> C:\Users\namir\Documents\coding projects\working of pointers c\Debug\working of pointers c.exe

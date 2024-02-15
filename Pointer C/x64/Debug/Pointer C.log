@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\coding projects\C programming\Pointer C\Source.cpp(36,32): warning C4305: '=': truncation from '__int64' to 'int'
+D:\coding projects\C programming\Pointer C\Source.cpp(36,22): warning C4309: '=': truncation of constant value
+  Pointer C.vcxproj -> D:\coding projects\C programming\Pointer C\x64\Debug\Pointer C.exe
